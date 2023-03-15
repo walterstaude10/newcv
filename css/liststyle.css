@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #DFD3C3;
+}
+
+h1 {
+  text-align: center;
+  color: #66bfbf;
+}
+
+#todoList {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+.todoItem {
+  margin-bottom: 10px;
+}
+
+.todoItem button {
+  margin-left: 10px;
+}

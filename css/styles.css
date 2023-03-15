@@ -1,0 +1,21 @@
+body {
+    background-color: #DFD3C3;
+  }
+
+  hr {
+    background-color: #DFD3C3;
+    border-style: dotted none none;
+    border-color: #8B7E74;
+    border-width: 5px;
+    width: 3%;
+  }
+
+.name {
+    color: #66bfbf;
+    font-style: italic;
+}
+h3 {
+    color: #66bfbf;
+    font-style: italic;
+}
+
